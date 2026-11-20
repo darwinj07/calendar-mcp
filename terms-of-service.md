@@ -1,0 +1,10 @@
+# Terms of Service - personal Google Calendar integration
+
+This application is provided for the private use of its owner, as-is, without warranty of
+any kind. It is not offered as a public or commercial service.
+
+The application accesses Google Calendar only after the account owner grants consent, and
+only for the purpose described in the privacy policy. The owner may revoke access at any
+time at https://myaccount.google.com/permissions.
+
+Last updated: 2026-11-13
